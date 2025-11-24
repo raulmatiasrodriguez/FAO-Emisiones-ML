@@ -93,11 +93,47 @@ FAO-Emisiones-ML/
 
 ---
 
+## 📌 Sobre los Datos Utilizados
+
+El dataset principal de FAO no está incluido en este repositorio porque supera el límite de 25 MB impuesto por GitHub.
+
+Dataset principal (NO incluido)
+
+FAO — Emisiones Totales (Todos los Datos Normalizado)
+Fuente oficial: https://www.fao.org/faostat/es/#data/GT
+
+→ Pesa más de 16 MB pero descomprimido supera los 25 MB, por lo que no puede subirse directamente.
+
+Cómo obtenerlo
+
+Descargar desde el link oficial.
+
+Guardarlo en:
+```text
+data/raw/
+```
+Con el nombre recomendado:
+```text
+FAO_Emisiones_Totales.csv
+```
+Si es necesario, ajustar en el notebook:
+```text
+file_path = '../data/raw/FAO_Emisiones_Totales.csv'
+```
+
+Archivo auxiliar incluido
+
+✔ UNSD — Methodology.csv
+Este archivo sí está disponible en data/raw/.
+
+---
+
 ## ▶️ Cómo Ejecutar el Proyecto
 
 1. Clonar el repositorio  
-2. Abrir el notebook desde Jupyter o Google Colab  
-3. Ejecutar las celdas en orden
+2. Colocar el dataset principal en data/raw/ (si corresponde)
+3. Abrir el notebook desde Jupyter o Google Colab
+4. Ejecutar las celdas en orden
 
 ---
 
