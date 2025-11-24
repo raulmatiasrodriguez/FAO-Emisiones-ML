@@ -42,25 +42,25 @@ El análisis completo se encuentra en el notebook:
 ## 📊 Visualizaciones Principales
 
 ### 🔹 Boxplot de valores de emisiones
-![Boxplot de Valor](img/boxplot_valor.png)
+<img width="4930" height="1703" alt="evolucion_continentes" src="https://github.com/user-attachments/assets/ced3747e-d2f4-48ba-92fb-a8b1453babc0" />
 
 ### 🔹 Matriz de correlaciones
-![Matriz de Correlaciones](img/correlaciones.png)
+<img width="4930" height="1703" alt="evolucion_elementos" src="https://github.com/user-attachments/assets/44322ea4-7015-4be7-a159-6f89d6f13c31" />
 
 ### 🔹 Evolución de emisiones por continente
-![Evolución Continentes](img/evolucion_continentes.png)
+<img width="1919" height="1638" alt="boxplot_valor" src="https://github.com/user-attachments/assets/565ca2df-15eb-4e08-8d0d-627059578f19" />
 
 ### 🔹 Evolución por tipo de elemento
-![Evolución Elementos](img/evolucion_elementos.png)
+<img width="2714" height="2461" alt="correlaciones" src="https://github.com/user-attachments/assets/e150e50a-dfcd-441a-8cd0-f5c1ea172413" />
 
 ### 🔹 Regresión lineal — Asia
-![Regresión Asia](img/regresion_asia.png)
+<img width="4027" height="1640" alt="top5_emisiones" src="https://github.com/user-attachments/assets/cf3fe5d4-67b5-4486-bbb3-dc95daa11e12" />
 
 ### 🔹 Regresión — Elemento 723113 (CO₂eq AR5)
-![Regresión Elemento](img/regresion_elemento_723113.png)
+<img width="1768" height="1363" alt="regresion_asia" src="https://github.com/user-attachments/assets/2f9e6a02-e1f0-4e23-bd60-b4e7b1fe6205" />
 
 ### 🔹 Top 5 productos con mayor emisión acumulada
-![Top 5 Emisiones](img/top5_emisiones.png)
+<img width="1768" height="1363" alt="regresion_elemento_723113" src="https://github.com/user-attachments/assets/fea4e9a5-b7d4-461c-9093-6e4401577f4d" />
 
 ---
 
